@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.jodd</groupId>
+  <artifactId>jodd-lagarto</artifactId>
+  <version>5.0.13</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.jodd</groupId>
+      <artifactId>jodd-core</artifactId>
+      <version>5.0.13</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jodd</groupId>
+      <artifactId>jodd-log</artifactId>
+      <version>5.0.13</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jodd</groupId>
+      <artifactId>jodd-servlet</artifactId>
+      <version>5.0.13</version>
+      <scope>compile</scope>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>3.1.0</version>
+      <scope>provided</scope>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet.jsp</groupId>
+      <artifactId>javax.servlet.jsp-api</artifactId>
+      <version>2.3.3</version>
+      <scope>provided</scope>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+  <name>Jodd Lagarto</name>
+  <description>Jodd Lagarto is fast and versatile all purpose HTML parser. Includes Jerry and CSSelly.</description>
+  <url>http://jodd.org</url>
+  <organization>
+    <name>Jodd</name>
+    <url>http://jodd.org</url>
+  </organization>
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/oblac/jodd/issues</url>
+  </issueManagement>
+  <licenses>
+    <license>
+      <name>The BSD 2-Clause License</name>
+      <url>http://jodd.org/license.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/oblac/jodd</url>
+    <connection>scm:git:git://github.com/oblac/jodd.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/oblac/jodd.git</developerConnection>
+  </scm>
+  <developers>
+    <developer>
+      <id>igor</id>
+      <name>Igor Spasić</name>
+      <email>igor@jodd.org</email>
+      <timezone>+1</timezone>
+    </developer>
+  </developers>
+</project>
