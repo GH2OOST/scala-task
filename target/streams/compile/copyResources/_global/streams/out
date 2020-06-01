@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\scala-project\play-scala-rest-api-example\conf\application.conf,C:\scala-project\play-scala-rest-api-example\target\scala-2.13\classes\application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\scala-project\play-scala-rest-api-example\conf\generated.keystore,C:\scala-project\play-scala-rest-api-example\target\scala-2.13\classes\generated.keystore)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\scala-project\play-scala-rest-api-example\conf\logback.xml,C:\scala-project\play-scala-rest-api-example\target\scala-2.13\classes\logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\scala-project\play-scala-rest-api-example\conf\routes,C:\scala-project\play-scala-rest-api-example\target\scala-2.13\classes\routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\scala-project\play-scala-rest-api-example\conf\secure.conf,C:\scala-project\play-scala-rest-api-example\target\scala-2.13\classes\secure.conf)[0m
